@@ -1,5 +1,5 @@
-# e_api_get_kanougaku_genbutsu_pki.py
-pki認証  現物可能額を取得
+# e_api_get_kanougaku_genbutsu_pubkey.py
+公開鍵認証  現物可能額を取得
 
 
 ご注意！！ ================================
@@ -23,7 +23,7 @@ APIバージョン： v4r9
 ４)実行は設定ファイルや「e_api_login_pkcs12.py」と同じディレクトリで実行してください。
 
 	事前に
-	e_api_login_pkcs12.py を実行
+	e_api_login_pubkey.py を実行
 	で、仮想URL（１日券）を取得しておいてください。
 
 ５）実行内容は、以下になります。
